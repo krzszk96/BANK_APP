@@ -1,0 +1,5 @@
+12345<>PWA Polska<>Warszawa 02-222<>1565.0
+11569<>Apb transport<>Gdańsk 02-452<>2.0
+18521<>Malinowski Transport<>Wrocław 02-988<>5899.0
+14563<>Alimex<>Kraków 05-222<>25.0
+11125<>Trans-Craft<>Warszawa 02-222<>787.0
